@@ -1,0 +1,381 @@
+<scheme name="SeasideTestingLight" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-05-23T21:44:08</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2020.1.1.0.0</property>
+    <property name="modified">2020-05-23T21:44:18</property>
+    <property name="originalScheme">SeasideTestingLight</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <colors>
+    <option name="LINE_NUMBERS_COLOR" value="84888c" />
+    <option name="NOTIFICATION_BACKGROUND" value="77be74" />
+    <option name="SELECTED_TEARLINE_COLOR" value="c2c2c2" />
+    <option name="SELECTION_BACKGROUND" value="434343" />
+    <option name="TEARLINE_COLOR" value="909090" />
+    <option name="WHITESPACES" value="e2e2e2" />
+  </colors>
+  <attributes>
+    <option name="Anotation attribute name">
+      <value>
+        <option name="FOREGROUND" value="d498" />
+      </value>
+    </option>
+    <option name="CUSTOM_NUMBER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e10000" />
+      </value>
+    </option>
+    <option name="CUSTOM_STRING_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="75c3b7" />
+      </value>
+    </option>
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4a8cf9" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="ff9100" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="e98000" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="d67200" />
+      </value>
+    </option>
+    <option name="ELIXIR_ALIAS">
+      <value>
+        <option name="FOREGROUND" value="36caf2" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="ELIXIR_ATOM">
+      <value>
+        <option name="FOREGROUND" value="b0c2ea" />
+      </value>
+    </option>
+    <option name="ELIXIR_BIT">
+      <value>
+        <option name="FOREGROUND" value="80b8f3" />
+      </value>
+    </option>
+    <option name="ELIXIR_BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="ELIXIR_BRACKET">
+      <value>
+        <option name="FOREGROUND" value="5ae6e4" />
+      </value>
+    </option>
+    <option name="ELIXIR_CALLBACK">
+      <value>
+        <option name="FOREGROUND" value="f3bd6b" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="ELIXIR_CHAR_LIST">
+      <value>
+        <option name="FOREGROUND" value="73c84c" />
+      </value>
+    </option>
+    <option name="ELIXIR_CHAR_TOKEN">
+      <value>
+        <option name="FOREGROUND" value="bfc357" />
+      </value>
+    </option>
+    <option name="ELIXIR_COMMA">
+      <value>
+        <option name="FOREGROUND" value="eb9b4f" />
+      </value>
+    </option>
+    <option name="ELIXIR_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="d1d1d1" />
+      </value>
+    </option>
+    <option name="ELIXIR_DECIMAL">
+      <value>
+        <option name="FOREGROUND" value="72b5d6" />
+      </value>
+    </option>
+    <option name="ELIXIR_DOCUMENTATION_MODULE_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="7fc36e" />
+        <option name="EFFECT_COLOR" value="629755" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELIXIR_DOCUMENTATION_TEXT">
+      <value>
+        <option name="FOREGROUND" value="bfa833" />
+      </value>
+    </option>
+    <option name="ELIXIR_DOT">
+      <value>
+        <option name="FOREGROUND" value="72f2b1" />
+      </value>
+    </option>
+    <option name="ELIXIR_EXPRESSION_SUBSTITUTION_MARK">
+      <value>
+        <option name="FOREGROUND" value="6de17c" />
+      </value>
+    </option>
+    <option name="ELIXIR_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="f5a130" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ELIXIR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="ELIXIR_IGNORED_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a8a8a8" />
+      </value>
+    </option>
+    <option name="ELIXIR_INVALID_DIGIT">
+      <value>
+        <option name="EFFECT_COLOR" value="db0c00" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ELIXIR_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="35b6e9" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ELIXIR_MACRO_CALL">
+      <value>
+        <option name="FOREGROUND" value="f0ae39" />
+      </value>
+    </option>
+    <option name="ELIXIR_MAP">
+      <value>
+        <option name="FOREGROUND" value="71b3f0" />
+      </value>
+    </option>
+    <option name="ELIXIR_OBSOLETE_WHOLE_NUMBER_BASE">
+      <value>
+        <option name="EFFECT_COLOR" value="db0c00" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ELIXIR_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="b0f468" />
+      </value>
+    </option>
+    <option name="ELIXIR_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e68674" />
+      </value>
+    </option>
+    <option name="ELIXIR_PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="f0b517" />
+      </value>
+    </option>
+    <option name="ELIXIR_PREDEFINED">
+      <value>
+        <option name="FOREGROUND" value="ffd34e" />
+      </value>
+    </option>
+    <option name="ELIXIR_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="f38d3c" />
+      </value>
+    </option>
+    <option name="ELIXIR_SIGIL">
+      <value>
+        <option name="FOREGROUND" value="52bfce" />
+      </value>
+    </option>
+    <option name="ELIXIR_SPECIFICATION">
+      <value>
+        <option name="FOREGROUND" value="e2af64" />
+      </value>
+    </option>
+    <option name="ELIXIR_STRING">
+      <value>
+        <option name="FOREGROUND" value="7bd46c" />
+      </value>
+    </option>
+    <option name="ELIXIR_STRUCT">
+      <value>
+        <option name="FOREGROUND" value="6bd5e6" />
+      </value>
+    </option>
+    <option name="ELIXIR_TYPE">
+      <value>
+        <option name="FOREGROUND" value="cfc82d" />
+      </value>
+    </option>
+    <option name="ELIXIR_TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ea7849" />
+      </value>
+    </option>
+    <option name="ELIXIR_VALID_DIGIT">
+      <value>
+        <option name="FOREGROUND" value="75abd4" />
+      </value>
+    </option>
+    <option name="ELIXIR_VALID_ESCAPE_SEQUENCE">
+      <value>
+        <option name="FOREGROUND" value="6aa2b8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELIXIR_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="6ee3e2" />
+      </value>
+    </option>
+    <option name="ELIXIR_WHOLE_NUMBER_BASE">
+      <value>
+        <option name="FOREGROUND" value="db5450" />
+      </value>
+    </option>
+    <option name="GROOVY_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc9f00" />
+      </value>
+    </option>
+    <option name="GString">
+      <value>
+        <option name="FOREGROUND" value="6da8db" />
+      </value>
+    </option>
+    <option name="Groovy method declaration">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Groovy parameter">
+      <value>
+        <option name="FOREGROUND" value="28b400" />
+      </value>
+    </option>
+    <option name="Groovy reassigned parameter">
+      <value />
+    </option>
+    <option name="Groovy reassigned var">
+      <value>
+        <option name="FOREGROUND" value="5892c6" />
+      </value>
+    </option>
+    <option name="Groovy var">
+      <value>
+        <option name="FOREGROUND" value="a7cede" />
+      </value>
+    </option>
+    <option name="Instance field">
+      <value>
+        <option name="FOREGROUND" value="72fb" />
+      </value>
+    </option>
+    <option name="Instance property reference ID">
+      <value>
+        <option name="FOREGROUND" value="60a4c8" />
+      </value>
+    </option>
+    <option name="Invalid string escape">
+      <value>
+        <option name="FOREGROUND" value="4cb9db" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="858585" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="6ad400" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Map key">
+      <value>
+        <option name="FOREGROUND" value="50c627" />
+      </value>
+    </option>
+    <option name="Method call">
+      <value>
+        <option name="FOREGROUND" value="3998e7" />
+      </value>
+    </option>
+    <option name="Number">
+      <value>
+        <option name="FOREGROUND" value="e13d00" />
+      </value>
+    </option>
+    <option name="Static field">
+      <value>
+        <option name="FOREGROUND" value="f39232" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Static method access">
+      <value>
+        <option name="FOREGROUND" value="e25000" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Static property reference ID">
+      <value>
+        <option name="FOREGROUND" value="e06800" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="String">
+      <value>
+        <option name="FOREGROUND" value="4cb0db" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ededed" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="a85bf" />
+      </value>
+    </option>
+    <option name="Unresolved reference access">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
