@@ -4,7 +4,7 @@
     <property name="created">2020-05-23T21:44:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-05-23T21:44:18</property>
+    <property name="modified">2020-05-24T11:17:41</property>
     <property name="originalScheme">SeasideTestingLight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -223,7 +223,7 @@
     </option>
     <option name="ELIXIR_STRING">
       <value>
-        <option name="FOREGROUND" value="7bd46c" />
+        <option name="FOREGROUND" value="aed2db" />
       </value>
     </option>
     <option name="ELIXIR_STRUCT">
